@@ -1,0 +1,72 @@
+h4.title{
+    font-size: 30px;
+    font-family: cursive;
+    text-align: center;
+    padding-top: 44px;
+    padding-bottom: 10px;
+}
+
+div#app {
+    width: 306px;
+    margin: auto;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    float: left;
+    border: 1px solid;
+}
+
+i.fas.fa-times {
+    font-size: 42px;
+    padding: 32px;
+    color: red;
+}
+
+i.fas.fa-check {
+    font-size: 42px;
+    padding: 32px;
+    color: blue;
+}
+
+.glow i.fas {
+    font-size: 72px;
+    padding: 6px 19px;
+    color:Green;
+
+}
+
+.box.glow {
+    background: black;
+}
+
+.pAgain {
+    text-align: center;
+    margin: auto;
+    border: 2px solid;
+    width: 84px;
+    font-size: 14px;
+    position: relative;
+    padding: 4px 13px;
+    top: -23px;
+    font-family: cursive;
+}
+
+.win i.fas {
+    font-size: 27px;
+    padding: 0px;
+    color: green;
+    margin-top: 13px;
+    margin-bottom: 10px;
+}
+
+p {
+    text-align: center;
+    font-size: 27px;
+    font-family: cursive;
+}
+
+.off {
+    cursor: not-allowed;
+}
